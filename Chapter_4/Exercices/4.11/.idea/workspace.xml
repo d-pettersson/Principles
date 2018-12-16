@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="4_8" targetName="4_8" />
+      <config projectName="4_11" targetName="4_11" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,11 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5eb81d79-a92b-4400-9e90-99060555b31b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/4_8" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/4_8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4_8.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4_8.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    <list default="true" id="c7a1fd53-0f35-45db-92eb-5d27bcca93a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../4.8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4.8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.8/cmake-build-debug/4_8" beforeDir="false" afterPath="$PROJECT_DIR$/../4.8/cmake-build-debug/4_8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.8/cmake-build-debug/CMakeFiles/4_8.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../4.8/cmake-build-debug/CMakeFiles/4_8.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.8/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../4.8/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,24 +26,23 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FUSProjectUsageTrigger">
-    <session id="1535445744">
+    <session id="-884316144">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="1261" />
+          <entry key="cpp" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ObjectiveC" value="1261" />
+          <entry key="ObjectiveC" value="59" />
         </counts>
       </usages-collector>
     </session>
@@ -58,11 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -86,9 +82,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="734" />
+    <option name="x" value="1051" />
     <option name="y" value="22" />
-    <option name="width" value="1186" />
+    <option name="width" value="869" />
     <option name="height" value="1178" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -118,8 +114,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.4_8">
-    <configuration name="4_8" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="4_8" TARGET_NAME="4_8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="4_8" RUN_TARGET_NAME="4_8">
+  <component name="RunManager" selected="Application.4_11">
+    <configuration name="4_11" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="4_11" TARGET_NAME="4_11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="4_11" RUN_TARGET_NAME="4_11">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -131,7 +127,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.4_8" />
+      <item itemvalue="Application.4_11" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -139,41 +135,38 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5eb81d79-a92b-4400-9e90-99060555b31b" name="Default Changelist" comment="" />
-      <created>1544812846619</created>
+      <changelist id="c7a1fd53-0f35-45db-92eb-5d27bcca93a4" name="Default Changelist" comment="" />
+      <created>1544869241126</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1544812846619</updated>
-      <workItem from="1544812847819" duration="1198000" />
-      <workItem from="1544865812829" duration="2013000" />
-      <workItem from="1544875925150" duration="1114000" />
-      <workItem from="1544970089648" duration="17000" />
+      <updated>1544869241126</updated>
+      <workItem from="1544869242438" duration="170000" />
+      <workItem from="1544875917400" duration="6000" />
+      <workItem from="1544975062638" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4342000" />
+    <option name="totallyTimeSpent" value="181000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="734" y="22" width="1186" height="1178" extended-state="0" />
-    <editor active="true" />
+    <frame x="1051" y="22" width="869" height="1178" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42307693" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.57678354" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3296501" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3296501" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="CMake" order="12" weight="0.3296501" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -192,11 +185,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
